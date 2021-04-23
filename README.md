@@ -3,7 +3,7 @@
 *This repository implements a weather app that uses **Open Weather Map API** and **Django** as a backend framework and deployement using pythonanywhere*
 
 ## Important Link
-[Open Weather Map API](https://openweathermap.org/, 'open weather map')
+[Open Weather Map API](https://openweathermap.org/ ,'open weather map')
 
 #### Usage
 
